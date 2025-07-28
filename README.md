@@ -128,5 +128,19 @@ Track progress on the dashboard and check the leaderboard.
 Live Demo
 Try the live frontend here:
 https://frontend-quiz-app-theta-mauve.vercel.app/
+## Screenshots
+
+### Landing Page
+![Landing Page](screenshots/landing-page.png (2))
+
+### Quiz Page
+![Quiz Page](screenshots/landing-page.png)
+
+### Result Page
+![Result Page](screenshots/notes.png)
+
+### Dashboard
+![Dashboard](screenshots/quiz-page.png)
+
 
 
